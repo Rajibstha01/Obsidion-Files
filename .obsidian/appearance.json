@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "Omarchy",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 13,
+  "baseFontSizeAction": false
+}

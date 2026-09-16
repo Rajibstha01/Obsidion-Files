@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiImage",
+      "LiBookA",
+      "LiHome",
+      "LiFile",
+      "LiTableOfContents"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Table of content.base": {
+    "iconName": "LiTableOfContents",
+    "iconColor": "#0066ff"
+  },
+  "Daily Basic of my notes..md": {
+    "iconName": "LiFile",
+    "iconColor": "#0066ff"
+  },
+  "Cyber security related chapters.md": {
+    "iconName": "LiFile",
+    "iconColor": "#0066ff"
+  },
+  "Rooms": {
+    "iconName": "LiFolder",
+    "iconColor": "#0066ff"
+  },
+  "Module": {
+    "iconName": "LiFolder",
+    "iconColor": "#0066e1"
+  },
+  "Daily journal": {
+    "iconName": "LiBookA",
+    "iconColor": "#0066ff"
+  },
+  "Images": {
+    "iconName": "LiImage",
+    "iconColor": "#0066ff"
+  },
+  "Home.md": {
+    "iconName": "LiHome",
+    "iconColor": "#0066ff"
+  }
+}

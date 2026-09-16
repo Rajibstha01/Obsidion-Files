@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5c0ff808e0f84d52",
+        "id": "cfc03ee0a6450451",
         "type": "tabs",
         "children": [
           {
-            "id": "0efd003a4acaaea7",
+            "id": "6f4b5f777454f1f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Room ; 1 (Offensive Security Intro).md",
+                "file": "Rooms/Room ; 2 (Defensive security).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room ; 1 (Offensive Security Intro)"
+              "title": "Room ; 2 (Defensive security)"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "fe07ca32e7c91c2d",
         "type": "tabs",
+        "dimension": 61.95652173913043,
         "children": [
           {
             "id": "19827d921d5937e1",
@@ -55,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#offensivesecurity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,18 +81,11 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "3121ef2d7cfbae18",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "3ac465eabcfa8e97",
+        "id": "8bec946cf7eafd81",
         "type": "tabs",
+        "dimension": 38.04347826086957,
         "children": [
           {
             "id": "e94cc08be6ae70f1",
@@ -102,14 +96,29 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.9439697265625
+  },
+  "right": {
+    "id": "3121ef2d7cfbae18",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ac465eabcfa8e97",
+        "type": "tabs",
+        "dimension": 56.48679678530425,
+        "children": [
           {
             "id": "9d2a73bb22bc3838",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rooms/Room ; 1 (Offensive Security Intro).md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,47 +180,71 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
+                "file": "Home.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "90c93da68820e7fa",
+        "type": "tabs",
+        "dimension": 43.51320321469575,
+        "children": [
+          {
+            "id": "47829f807a5ad9dc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 618.42236328125
+    "width": 351.560302734375
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "0efd003a4acaaea7",
+  "active": "6f4b5f777454f1f2",
   "lastOpenFiles": [
+    "Rooms/Room ; 1 (Offensive Security Intro).md",
+    "Module/Module ; 1 (Intro to Cyber Security).md",
+    "Cyber security related chapters.md",
+    "Rooms/Room ; 2 (Defensive security).md",
+    "Images/Pasted image 20260916151745.png",
+    "Images",
+    "Daily journal/2026-09-16.md",
+    "Daily journal",
+    "Untitled.canvas",
+    "Daily journal.md",
+    "Home.md",
+    "Daily Basic of my notes..md",
+    "Table of content.base",
     "https:/github.com/Rajibstha01/Obsidion-Files-.git",
     "https:/github.com/Rajibstha01",
     "https:/github.com",
     "https:",
-    "Module/Module ; 1 (Intro to Cyber Security).md",
-    "Cyber security related chapters.md",
-    "Table of content.base",
-    "Daily Basic of my notes..md",
     "Untitled 5.base",
     "Untitled 3.base",
-    "Untitled 4.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Rooms/Room ; 1 (Offensive Security Intro).md",
-    "Module"
+    "Untitled 4.base"
   ]
 }
