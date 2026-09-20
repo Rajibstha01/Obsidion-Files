@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Room ; 2 (Defensive security).md",
+                "file": "Personal access token.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room ; 2 (Defensive security)"
+              "title": "Personal access token"
             }
           }
         ]
@@ -226,10 +226,11 @@
   },
   "active": "6f4b5f777454f1f2",
   "lastOpenFiles": [
+    "Rooms/Room ; 2 (Defensive security).md",
+    "Personal access token.md",
     "Rooms/Room ; 1 (Offensive Security Intro).md",
     "Module/Module ; 1 (Intro to Cyber Security).md",
     "Cyber security related chapters.md",
-    "Rooms/Room ; 2 (Defensive security).md",
     "Images/Pasted image 20260916151745.png",
     "Images",
     "Daily journal/2026-09-16.md",
