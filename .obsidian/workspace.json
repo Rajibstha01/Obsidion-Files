@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal access token.md",
+                "file": "Rooms/Room ; 2 (Defensive security).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal access token"
+              "title": "Room ; 2 (Defensive security)"
+            }
+          },
+          {
+            "id": "85956b36f4bb98ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux form beginning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux form beginning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,9 +239,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "6f4b5f777454f1f2",
+  "active": "85956b36f4bb98ce",
   "lastOpenFiles": [
     "Rooms/Room ; 2 (Defensive security).md",
+    "linux form beginning.md",
+    "Table of content.base",
     "Personal access token.md",
     "Rooms/Room ; 1 (Offensive Security Intro).md",
     "Module/Module ; 1 (Intro to Cyber Security).md",
@@ -239,7 +256,6 @@
     "Daily journal.md",
     "Home.md",
     "Daily Basic of my notes..md",
-    "Table of content.base",
     "https:/github.com/Rajibstha01/Obsidion-Files-.git",
     "https:/github.com/Rajibstha01",
     "https:/github.com",
