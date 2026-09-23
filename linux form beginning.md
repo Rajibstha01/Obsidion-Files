@@ -18,4 +18,10 @@ The linux kernal is developed by linus torvald for his project. linux also work 
 5. Configuration data be stored in text file. 
 
 ## Linux File System Hierarchy(FSH) 
-
+The linux system is structured in a tree like hierarchy. 
++ The top layer being " / " also know as root. This contains all of the file inside of the root.  
++ " /bin " contains essential command binaries. 
++ " /boot " consists of the static bootloader, kernel executable, and files required to boot. 
++ " /dev "
+ 
+## Introduction to shell. 
