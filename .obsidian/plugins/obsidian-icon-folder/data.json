@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiVideo",
       "LiImage",
       "LiBookA",
       "LiHome",
-      "LiFile",
-      "LiTableOfContents"
+      "LiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,13 @@
   "Home.md": {
     "iconName": "LiHome",
     "iconColor": "#0066ff"
+  },
+  "Video editing": {
+    "iconName": "LiVideo",
+    "iconColor": "#0066ff"
+  },
+  "Video editing/video editing chapters.md": {
+    "iconName": "LiFile",
+    "iconColor": "#0069ff"
   }
 }

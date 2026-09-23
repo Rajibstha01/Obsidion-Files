@@ -11,6 +11,7 @@ The linux kernal is developed by linus torvald for his project. linux also work 
 #opensource 
 
 ### The linux system runs on five #linuxphilosophy  
+
 1. Everything must be in file format
 2. Small, single purpose program. 
 3. Ability to chain multiple program to perform difficult task.
@@ -18,6 +19,7 @@ The linux kernal is developed by linus torvald for his project. linux also work 
 5. Configuration data be stored in text file. 
 
 ## Linux File System Hierarchy(FSH) 
+
 The linux system is structured in a tree like hierarchy. 
 + The top layer being " / " also know as root. This contains all of the file inside of the root.  
 + " /bin " contains essential command binaries. 
