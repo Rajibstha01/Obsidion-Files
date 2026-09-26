@@ -1,3 +1,11 @@
+==Video 3==
+https://www.youtube.com/watch?v=UwHopwh0L_k&t=21s
+## Why is typography important? 
+typography is important because it will help you grab attention of the audience while communication, storytelling. 
+
+## Understanding fundamentals 
+
+
 Typography : 
 1. **Hierarchy** — the reader's eye should know what to look at first, second, third. That's it. That's 80% of typography. You create hierarchy with size, weight, and space — not by picking fancy fonts.
 2. **Contrast** — if two things are different, make them _obviously_ different. A "kind of bigger" heading looks like a mistake. A heading 2-3x the body size looks intentional. Weak, timid contrast is the #1 beginner mistake.
@@ -76,5 +84,24 @@ It is divided in 3 part
 * letter spacing: closer is good for title but for paragraph not good. it should be more space in paragraph.
 
 ## ==Video 2==
+
+More the x-height the more readable the text is in small screen. 
+1. Ascenders:
+	The character which go above the x-height. 
+2. Descenders:
+	The character which go below the x-height. 
+3. Aperture:
+	It is the opening in the character like "c" "e.
+4. Counters:
+	hole inside of character like "b" "p" "o". 
+
+## Golden ration is 1.6818. 
+
+use regular, semi-bold and bold use this three weight to make the video pop. 
+
+## colour opacity 
+headline 100% 
+body 85% 
+caption 60%. 
 
 
