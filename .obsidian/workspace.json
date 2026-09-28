@@ -211,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.560302734375
+    "width": 325.666748046875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,14 +224,16 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8775bf22284b6cba",
+  "active": "e94cc08be6ae70f1",
   "lastOpenFiles": [
+    "Video editing/video editing chapters.md",
     "Home.md",
+    "Untitled.canvas",
+    "2026-09-26.md",
     "Personal access token.md",
     "linux form beginning.md",
     "Daily Basic of my notes..md",
     "Cyber security related chapters.md",
-    "Video editing/video editing chapters.md",
     "Rooms/Room ; 2 (Defensive security).md",
     "Rooms/Room ; 1 (Offensive Security Intro).md",
     "Module/Module ; 1 (Intro to Cyber Security).md",
@@ -243,7 +245,6 @@
     "Table of content.base",
     "Images",
     "Daily journal",
-    "Untitled.canvas",
     "Daily journal.md",
     "https:/github.com/Rajibstha01/Obsidion-Files-.git",
     "https:/github.com/Rajibstha01",

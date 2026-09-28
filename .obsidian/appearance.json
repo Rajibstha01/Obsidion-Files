@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Omarchy",
+  "cssTheme": "",
   "textFontFamily": "JetBrains Mono NL",
-  "accentColor": "",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "accentColor": "#00a2ff",
+  "interfaceFontFamily": "JetBrains Mono NL",
   "baseFontSize": 16,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "theme": "obsidian"
 }

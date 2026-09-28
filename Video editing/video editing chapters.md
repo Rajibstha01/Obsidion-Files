@@ -1,5 +1,27 @@
 ==Video 3==
 https://www.youtube.com/watch?v=UwHopwh0L_k&t=21s
+
+### Kerning 
+==the process of adjusting the space between two specific characters or letterforms in a font to create visually consistent and balanced spacing==
+
+### Rule 1 : ==Skip weights.== 
+Dont use the weight of same like when you use bold word dont use semi bold use regular or thin to make contrast. 
+### Rule 2 : ==Change hue.==
+change the color of the important word to build the contrast. 
+### Rule 3 : ==Mix cases==
+Using both the upper case and lower case to build the contrast. to will writing make the important word in UPPER case it will highlight it. 
+### Rule 4 : ==Change size.== 
+make the important word big so that the user can see it first and know what it is about. 
+### Rule 5 : ==mix all of it.== 
+use all of the rule to make the typography good. but not to use all it will be crowded. 
+
+## Fonts that can be used anywhere according to the industry. 
+
+* Inter/ Halvetica : Clean and modern 
+* bebas neue : tech and headlines. 
+* Times new roman or Garamond: Documentaries or history shows. 
+* lemon milk or Montserrat: masculine or bold look. 
+
 ## Why is typography important? 
 typography is important because it will help you grab attention of the audience while communication, storytelling. 
 

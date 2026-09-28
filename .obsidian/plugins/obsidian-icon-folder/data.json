@@ -54,17 +54,9 @@
     "iconName": "LiFolder",
     "iconColor": "#0066e1"
   },
-  "Daily journal": {
-    "iconName": "LiBookA",
-    "iconColor": "#0066ff"
-  },
-  "Images": {
-    "iconName": "LiImage",
-    "iconColor": "#0066ff"
-  },
   "Home.md": {
     "iconName": "LiHome",
-    "iconColor": "#0066ff"
+    "iconColor": "#00d5ff"
   },
   "Video editing": {
     "iconName": "LiVideo",
