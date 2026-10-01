@@ -26,4 +26,23 @@ The linux system is structured in a tree like hierarchy.
 + " /boot " consists of the static bootloader, kernel executable, and files required to boot. 
 + " /dev "
  
-## Introduction to shell. 
+## Introduction to shell.
+
+A linux terminal, also called a shell or command line, provides a text-based input/ouput interface between the users and the kernel for a computer system. 
+
+## Basic commands. #commands
+1. pwd: shows the current location in the terminal. 
+2. ls: list all of the content of the folder you are in. 
+	* ls -a : shows all of the hidden things in the directory. 
+	* ls -l : shows all of the things in list format. 
+	* ls -al: combine all of the things. 
+3. cd: it is used to go in or out of the directory.
+4. man "toolname" : will give you a manual of that specific tool or command.
+5. ssh hostname@ipaddress: will help the client log in to a remote computer. 
+6. whoami: Displays current username.
+7. id: Returns users identity
+8. hostname : sets or prints the name of current host system. 
+9. uname: prints basic information about the operating system name and system hardware. 
+10. echo can also be used to search. (echo $NAME)
+11. index number is also called inode number. 
+

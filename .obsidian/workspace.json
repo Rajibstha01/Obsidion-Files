@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "video editing chapters"
             }
+          },
+          {
+            "id": "8baf3316755899d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hack the box/linux form beginning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux form beginning"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,22 +239,27 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e94cc08be6ae70f1",
+  "active": "8baf3316755899d9",
   "lastOpenFiles": [
+    "Hack the box/linux form beginning.md",
+    "Daily journal/2026-09-26.md",
+    "Daily Basic of my notes..md",
+    "Try hack me/Cyber security related chapters of try hack me..md",
+    "Hack the box",
+    "Try hack me",
+    "Untitled.canvas",
+    "Images/Pasted image 20260928135331.png",
+    "Video editing/The Clips agency..md",
+    "Images/Pasted image 20260928135208.png",
+    "Images/Pasted image 20260928132900.png",
     "Video editing/video editing chapters.md",
     "Home.md",
-    "Untitled.canvas",
-    "2026-09-26.md",
     "Personal access token.md",
-    "linux form beginning.md",
-    "Daily Basic of my notes..md",
-    "Cyber security related chapters.md",
-    "Rooms/Room ; 2 (Defensive security).md",
-    "Rooms/Room ; 1 (Offensive Security Intro).md",
-    "Module/Module ; 1 (Intro to Cyber Security).md",
+    "Try hack me/Rooms/Room ; 2 (Defensive security).md",
+    "Try hack me/Rooms/Room ; 1 (Offensive Security Intro).md",
+    "Try hack me/Module/Module ; 1 (Intro to Cyber Security).md",
     "Daily journal/2026-09-16.md",
     "Images/Pasted image 20260916151745.png",
-    "Untitled",
     "Images/Pasted image 20260923190502.png",
     "Video editing",
     "Table of content.base",
@@ -249,7 +269,6 @@
     "https:/github.com/Rajibstha01/Obsidion-Files-.git",
     "https:/github.com/Rajibstha01",
     "https:/github.com",
-    "https:",
-    "Untitled 5.base"
+    "https:"
   ]
 }

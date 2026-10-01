@@ -38,22 +38,6 @@
     "iconName": "LiTableOfContents",
     "iconColor": "#0066ff"
   },
-  "Daily Basic of my notes..md": {
-    "iconName": "LiFile",
-    "iconColor": "#0066ff"
-  },
-  "Cyber security related chapters.md": {
-    "iconName": "LiFile",
-    "iconColor": "#0066ff"
-  },
-  "Rooms": {
-    "iconName": "LiFolder",
-    "iconColor": "#0066ff"
-  },
-  "Module": {
-    "iconName": "LiFolder",
-    "iconColor": "#0066e1"
-  },
   "Home.md": {
     "iconName": "LiHome",
     "iconColor": "#00d5ff"
@@ -65,5 +49,17 @@
   "Video editing/video editing chapters.md": {
     "iconName": "LiFile",
     "iconColor": "#0069ff"
+  },
+  "Try hack me/Rooms": {
+    "iconName": "LiFolder",
+    "iconColor": "#0066ff"
+  },
+  "Try hack me/Module": {
+    "iconName": "LiFolder",
+    "iconColor": "#0066e1"
+  },
+  "Try hack me/Cyber security related chapters of try hack me..md": {
+    "iconName": "LiFile",
+    "iconColor": "#0066ff"
   }
 }
