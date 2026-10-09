@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try hack me/Rooms/Room ; 9 (Junior Security analyst Intro).md",
+                "file": "Try hack me/Rooms/Room ; 10 (SOC Role in Blue Team).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room ; 9 (Junior Security analyst Intro)"
+              "title": "Room ; 10 (SOC Role in Blue Team)"
             }
           }
         ],
@@ -267,19 +267,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e94cc08be6ae70f1",
+  "active": "f4f698f6635fadbb",
   "lastOpenFiles": [
-    "Try hack me/Rooms/Room ; 1 (Offensive Security Intro).md",
-    "Try hack me/Rooms/Room ; 9 (Junior Security analyst Intro).md",
-    "Try hack me/Modules and rooms of try hack me..md",
+    "Try hack me/Rooms/Room ; 3 (Careers in cyber).md",
     "Try hack me/Rooms/Room ; 8 (Cloud computing fundamentals).md",
+    "Try hack me/Rooms/Room ; 9 (Junior Security analyst Intro).md",
+    "Try hack me/Rooms/Room ; 10 (SOC Role in Blue Team).md",
+    "Images/Pasted image 20261009190238.png",
+    "Images/Pasted image 20261009185927.png",
+    "Images/Pasted image 20261009185847.png",
+    "Images/Pasted image 20261009184834.png",
+    "Try hack me/Rooms/Room ; 1 (Offensive Security Intro).md",
+    "Try hack me/Modules and rooms of try hack me..md",
     "Try hack me/Rooms/Room ; 7 (Virtualization basic).md",
     "Try hack me/Rooms/Room ; 6 (Client-server basic).md",
     "Try hack me/Rooms/Room ; 5 (Computer types).md",
     "Images/Pasted image 20261009131655.png",
     "Try hack me/Rooms/Room ; 4 (Inside a Computer System).md",
     "Try hack me/Rooms/Room ; 2 (Defensive security).md",
-    "Try hack me/Rooms/Room ; 3 (Careers in cyber).md",
     "Images/Pasted image 20261009130638.png",
     "List of modules and rooms.md",
     "Table of content.base",
@@ -298,9 +303,7 @@
     "Try hack me",
     "Untitled.canvas",
     "Images/Pasted image 20260928135331.png",
-    "Images/Pasted image 20260928135208.png",
     "Daily journal/2026-09-16.md",
-    "Images/Pasted image 20260916151745.png",
     "Video editing",
     "Images",
     "Daily journal",
