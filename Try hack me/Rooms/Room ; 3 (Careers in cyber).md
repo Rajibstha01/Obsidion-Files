@@ -32,4 +32,7 @@ Responsibilities
 - Create regular reports about network safety, explaining any security problems found and the actions taken to fix them.
 - Develop security plans, incorporating research on new attack tools and techniques, and defensive measures needed across teams to maintain cyber security.
 
-after this they gave me a series of room to explore according to the career. 
+after this they gave me a series of room to explore according to the career.
+
+
+# ==🟢And the room is completed==
