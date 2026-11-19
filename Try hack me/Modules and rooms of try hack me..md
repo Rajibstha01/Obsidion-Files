@@ -20,3 +20,5 @@ room 5, 6 , 7 , 8  rooms are premium room.
 
 ## Module : 3 SOC Level 1
 
+[[Room ; 10 (Junior Security analyst Intro)]]
+[[Room ; 11 (SOC Role in Blue Team)]]
