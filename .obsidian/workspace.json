@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "0f9032bc80fc6f09",
+            "id": "3ef41d44bb8b11ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OtherLearningThings/Harvard CS50’s Intro to Cybersecurity – Full University Course.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem 3 year 2/Computer networking/Workshop1_CiscoPacketTracer_98375dd4-6d9f-4afb-8464-aa09505f9d4e_237504_.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Harvard CS50’s Intro to Cybersecurity – Full University Course"
+              "icon": "lucide-file-text",
+              "title": "Workshop1_CiscoPacketTracer_98375dd4-6d9f-4afb-8464-aa09505f9d4e_237504_"
             }
           }
         ],
@@ -116,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.9439697265625,
-    "collapsed": true
+    "width": 313.9439697265625
   },
   "right": {
     "id": "3121ef2d7cfbae18",
@@ -241,9 +238,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0f9032bc80fc6f09",
+  "active": "3ef41d44bb8b11ed",
   "lastOpenFiles": [
+    "Try hack me/Rooms/Room ; 1 (Offensive Security Intro).md",
+    "Video editing/The Clips agency..md",
+    "Sem 3 year 2/Full stack/Full stack notes or class notes.md",
     "Try hack me/Modules and rooms of try hack me..md",
+    "Sem 3 year 2/Full stack",
+    "Classes/Computer networking.md",
     "OtherLearningThings/Harvard CS50’s Intro to Cybersecurity – Full University Course.md",
     "OtherLearningThings",
     "Try hack me/Rooms/Room ; 9 (SOC Fundamentals).md",
@@ -260,7 +262,6 @@
     "Images/Pasted image 20261009185927.png",
     "Images/Pasted image 20261009185847.png",
     "Images/Pasted image 20261009184834.png",
-    "Try hack me/Rooms/Room ; 1 (Offensive Security Intro).md",
     "Try hack me/Rooms/Room ; 7 (Virtualization basic).md",
     "Try hack me/Rooms/Room ; 6 (Client-server basic).md",
     "Try hack me/Rooms/Room ; 5 (Computer types).md",
@@ -277,7 +278,6 @@
     "Images/Pasted image 20260928132900.png",
     "Images/Pasted image 20260923190502.png",
     "Personal access token.md",
-    "Video editing/The Clips agency..md",
     "Daily journal/2026-09-26.md",
     "Daily Basic of my notes..md",
     "Hack the box",
@@ -286,7 +286,6 @@
     "Daily journal/2026-09-16.md",
     "Video editing",
     "Images",
-    "Daily journal",
     "Daily journal.md"
   ]
 }
