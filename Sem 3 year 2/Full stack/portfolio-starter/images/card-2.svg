@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240" role="img" aria-label="Stacked arcs">
+<rect width="400" height="240" fill="#BBC2E2"/>
+<path d="M0 240 A240 240 0 0 1 240 0 L400 0 L400 240 Z" fill="#B7B5E4"/>
+<path d="M120 240 A120 120 0 0 1 240 120 L240 240 Z" fill="#322E18"/>
+<path d="M280 240 A96 96 0 0 1 376 144 L376 240 Z" fill="#CFCCD6"/>
+</svg>

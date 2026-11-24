@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240" role="img" aria-label="Diagonal bands">
+<rect width="400" height="240" fill="#B7B5E4"/>
+<path d="M-120 240 L120 -40 L220 -40 L-20 240 Z" fill="#322E18"/>
+<path d="M60 240 L300 -40 L360 -40 L120 240 Z" fill="#BBC2E2"/>
+<path d="M240 240 L480 -40 L560 -40 L320 240 Z" fill="#322E18"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 470" width="620" height="470" role="img" aria-label="Abstract geometric composition">
+<rect width="620" height="470" fill="#CFCCD6"/>
+<path d="M620 470 A340 340 0 0 0 280 130 L280 470 Z" fill="#B7B5E4"/>
+<path d="M620 470 A190 190 0 0 0 430 280 L430 470 Z" fill="#BBC2E2"/>
+<rect x="0" y="0" width="620" height="34" fill="#322E18"/>
+<rect x="72"  y="120" width="22" height="350" fill="#322E18"/>
+<rect x="122" y="214" width="22" height="256" fill="#847979"/>
+<rect x="172" y="308" width="22" height="162" fill="#322E18"/>
+<circle cx="470" cy="120" r="46" fill="#322E18"/>
+</svg>

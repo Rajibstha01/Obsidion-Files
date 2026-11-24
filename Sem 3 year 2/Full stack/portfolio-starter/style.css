@@ -1,0 +1,285 @@
+/* 5CS045 Week 1 Tutorial. Edit section B and section C only. */
+
+
+/* SECTION A: GIVEN. DO NOT EDIT. */
+
+:root {
+  --ink:        #322E18;
+  --stone:      #847979;
+  --stone-text: #6B6260;
+  --ground:     #CFCCD6;
+  --surface:    #E7E5EC;
+  --periwinkle: #BBC2E2;
+  --lavender:   #B7B5E4;
+
+  --serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  --mono:  ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --sans:  system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--ink);
+  background: var(--ground);
+}
+
+img { max-width: 100%; display: block; }
+
+h1, h2, h3 {
+  font-family: var(--serif);
+  font-weight: 400;
+  line-height: 1.08;
+  margin: 0 0 0.4em;
+}
+h1 { font-size: 3.4rem; letter-spacing: -0.015em; }
+h2 { font-size: 1.05rem; font-family: var(--mono); text-transform: uppercase;
+     letter-spacing: 0.16em; font-weight: 600; }
+h3 { font-size: 1.45rem; }
+p  { margin: 0 0 1em; }
+
+a { color: var(--ink); text-underline-offset: 3px; }
+
+.site-header {
+  border-bottom: 2px solid var(--ink);
+  padding: 0 2rem;
+}
+
+.logo {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  text-decoration: none;
+  padding: 1.15rem 0;
+}
+.logo span { color: var(--stone-text); }
+
+.nav-links a {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  color: var(--stone-text);
+  padding: 1.15rem 0;
+  display: inline-block;
+}
+.nav-links a:hover { color: var(--ink); text-decoration: underline; }
+
+main { padding: 3rem 2rem; max-width: 1180px; margin: 0 auto; }
+
+.eyebrow {
+  font-family: var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.72rem;
+  color: var(--stone-text);
+  margin-bottom: 1rem;
+}
+
+.hero-text p { max-width: 34ch; font-size: 1.05rem; }
+.hero img  { flex: 1; min-width: 0; }
+.hero-text { flex: 1; min-width: 0; }
+
+.button {
+  display: inline-block;
+  background: var(--ink);
+  color: var(--ground);
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  text-decoration: none;
+  padding: 0.85rem 1.5rem;
+}
+.button:hover { background: var(--stone-text); }
+
+.gallery-section { margin-top: 4.5rem; }
+.gallery-section h2 { border-top: 2px solid var(--ink); padding-top: 0.9rem;
+                      margin-bottom: 1.5rem; }
+
+.card img { height: 190px; object-fit: cover; width: 100%; }
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--stone);
+  display: flex;
+  flex-direction: column;
+}
+.card-body {
+  padding: 1.2rem 1.3rem 1.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+.card-body p { color: var(--stone-text); font-size: 0.93rem; }
+.card-meta {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--stone-text);
+  margin-bottom: 0.5rem;
+}
+.card-meta span {
+  color: var(--ink);
+  font-weight: 600;
+  border-right: 1px solid var(--stone);
+  padding-right: 0.6rem;
+  margin-right: 0.6rem;
+}
+.card-link {
+  margin-top: auto;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding-top: 0.9rem;
+}
+.feature { background: var(--lavender); }
+.feature .card-body p { color: var(--ink); }
+.feature .card-meta   { color: var(--ink); }
+
+aside {
+  background: var(--periwinkle);
+  border: 1px solid var(--stone);
+  padding: 1.6rem;
+  align-self: start;
+}
+aside h2 { border-bottom: 1px solid var(--ink); padding-bottom: 0.7rem;
+           margin-bottom: 1.2rem; }
+aside figure { margin: 0 0 1.1rem; }
+aside figcaption {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--stone-text);
+  margin-top: 0.6rem;
+}
+aside p { font-size: 0.93rem; }
+aside h3 { font-size: 1.15rem; margin-top: 1.6rem; }
+
+.meta-list { margin: 0; font-size: 0.88rem; }
+.meta-list dt {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--stone-text);
+  margin-top: 0.9rem;
+}
+.meta-list dd { margin: 0.1rem 0 0; }
+
+footer {
+  border-top: 2px solid var(--ink);
+  margin: 4rem 2rem 0;
+  padding: 1.8rem 0 3rem;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+footer p { margin: 0 0 0.35rem; }
+.footer-mail a { color: var(--stone-text); }
+footer small {
+  display: block;
+  margin-top: 1.4rem;
+  text-transform: none;
+  letter-spacing: 0;
+  font-family: var(--sans);
+  color: var(--stone-text);
+}
+
+
+/* SECTION B: YOUR WORK */
+
+/* EXERCISE 1 */
+nav {
+  display: flex;
+  /* 1a */ justify-content: space-between;
+  /* 1b */ align-items: center;
+}
+
+/* EXERCISE 2 */
+.nav-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  /* 2a */ display: flex;
+  gap: 1.75rem;
+}
+
+/* EXERCISE 3 */
+.hero {
+  /* 3a */ display: flex;
+  /* 3b */ align-items: center;
+  /* 3c */ gap: 1.75rem;
+}
+
+/* EXERCISE 5 */
+.gallery {
+  display: grid;
+  /* 5a */ grid-template-columns:repeat(3, 1fr);
+  /* 5b */ gap: 1.75rem;
+}
+
+/* EXERCISE 7 */
+.feature {
+  /* 7a */ grid-column: span 2;
+}
+
+/* EXERCISE 8 */
+main {
+  display: grid;
+  /* 8a */ grid-template-columns: 3fr 1fr;
+  gap: 2.5rem;
+}
+
+
+/* SECTION C: RESPONSIVE */
+
+/* EXERCISE 11 */
+@media (max-width: 768px) {
+
+  main {
+    /* 11a */ grid-template-columns: 1fr;
+  }
+
+  .gallery {
+    /* 11b */ grid-template-columns: repeat(2, 1fr);
+  }
+
+  .feature {
+    grid-column: span 2;
+  }
+}
+
+@media (max-width: 480px) {
+
+  .gallery {
+    /* 11c */ grid-template-columns: 1fr;
+  }
+
+  .feature {
+    grid-column: span 1;
+  }
+
+  nav {
+    /* 11d */ flex-direction: column;
+    gap: 0.5rem;
+    padding-bottom: 0.75rem;
+  }
+
+  .hero {
+    /* 11e */ flex-direction: column;
+  }
+
+  h1 { font-size: 1.9rem; }
+  main { padding: 1.5rem 1rem; }
+  .site-header { padding: 0 1rem; }
+}
